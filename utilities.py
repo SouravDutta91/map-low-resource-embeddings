@@ -107,7 +107,7 @@ def translate(text, source, target):
     api_url = "https://translate.yandex.net/api/v1.5/tr.json/translate"
 
     # Please use your own Yandex translation API key
-    api_key = "trnsl.1.1.20190814T074325Z.71d0ce74b886d4c0.9f7b4bfa310d588e981d269a184b98cc3ab9db6b"
+    api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     data = {'key': api_key,
             'text': text,
